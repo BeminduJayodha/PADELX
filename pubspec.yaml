@@ -1,0 +1,21 @@
+name: bike_sharing_app
+description: A simple bike sharing Flutter app.
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.0.0
+  firebase_auth: ^4.0.0
+  shared_preferences: ^2.0.15
+
+flutter:
+  uses-material-design: true
+  assets:
+     - assets/images/welcome_bg.png
+     - assets/images/logo.png
+
+  
