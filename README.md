@@ -18,21 +18,6 @@ This project is part of my **university research** and focuses on building a **n
 - **Backend:** Firebase
 - **UI/UX:** Figma 
 
-
-
-## 🚀 Getting Started
-git clone https://github.com/BeminduJayodha/PADELX.git
-cd bike_sharing_app
-2. Install dependencies
-bash
-Copy code
-flutter pub get
-3. Run the app
-bash
-Copy code
-flutter run
-
-
 Future Enhancements
 - Integrate IoT sensors for real-time safety monitoring
 - GPS tracking for rides
