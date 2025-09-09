@@ -15,8 +15,8 @@ This project is part of my **university research** and focuses on building a **n
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter, Dart  
-- **Backend (optional):** Mock Data / Firebase (future work)  
-- **UI/UX:** Inspired by Figma designs  
+- **Backend:** Firebase
+- **UI/UX:** Figma 
 
 
 
